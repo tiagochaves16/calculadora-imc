@@ -1,0 +1,20 @@
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\bin\Debug\Projeto_Calculadora_IMC.exe.config
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\bin\Debug\Projeto_Calculadora_IMC.exe
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\bin\Debug\Projeto_Calculadora_IMC.pdb
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.csprojAssemblyReference.cache
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.Form1.resources
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.Properties.Resources.resources
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.exe
+C:\Users\dell\OneDrive\Área de Trabalho\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.pdb
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\bin\Debug\Projeto_Calculadora_IMC.exe.config
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\bin\Debug\Projeto_Calculadora_IMC.exe
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\bin\Debug\Projeto_Calculadora_IMC.pdb
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.csprojAssemblyReference.cache
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.Form1.resources
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.Properties.Resources.resources
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.csproj.GenerateResource.cache
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.exe
+C:\Users\dell\Documents\Projeto_Calculadora_IMC\Projeto_Calculadora_IMC\obj\Debug\Projeto_Calculadora_IMC.pdb
